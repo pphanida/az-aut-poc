@@ -1,3 +1,1 @@
-# az-aut-poc
-azure automation poc
-testing
+tesing it
